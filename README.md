@@ -59,4 +59,4 @@ Color psychology is an important aspect of UI/UX design. Proper color selection 
 
 ### Proof 3 – GitHub Repository Upload
 
-![GitHub Repository Upload](proof2.png)
+![GitHub Repository Upload](Screenshot (346).png)
